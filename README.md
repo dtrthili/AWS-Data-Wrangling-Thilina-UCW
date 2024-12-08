@@ -68,7 +68,7 @@ Perform data type conversions to ensure that all fields are in suitable formats 
 
  
 
-Conclusion:
+**Conclusion:**
 
 o Generated reliabile cleaned outputs for any business purposes.
 
@@ -76,4 +76,4 @@ o Tools and Technologies:
 
 • AWS - Amazon S3 / AWS Data Brew  
 
-This EDA project not only demonstrates my analytical and programming skills but also highlights my ability to derive meaningful insights from data, making it a valuable addition to my data analyst portfolio.
+This data wrangling project aims to establish a high-quality dataset that enables ucw to conduct effective review panel and driving overall business growth.
